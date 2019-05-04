@@ -1,0 +1,95 @@
+/*mystyle.css*/
+.logo{
+	margin-left:auto; 
+	margin-right:auto;
+	width: 50%;
+	text-align: center;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+#google_logo{
+	padding-top: 175px;
+}
+
+.searchbar{
+	padding: 6px;
+	border-radius:10px;
+	width: 55%;
+	border-color: #D3D3D3;
+}
+
+form{
+	text-align: center;
+}
+
+form:hover{
+	box-shadow: 4px;
+}
+
+#button1 , #button2{
+	display:inline-block;
+	padding: 10px 16px;
+	border: 1px solid;
+	border-color: #D3D3D3;
+	margin: 11px 4px;
+	font-size: 14px;
+	font-color: #333;
+	border-radius: 4px;
+}
+
+button:hover{
+	color:black;
+	background-color: #c4c4c4;
+}
+
+.wrapper{
+	text-align: center;
+}
+
+.topnav{
+	float: right;
+}
+
+.Gmail , .Images , .apps , .Me{
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin-right:6px;
+}
+
+.footer {
+	font-family:arial, sans-serif;
+	padding-top: 4px;
+	position: absolute;
+	bottom:0;
+	width: 100%;
+	background-color: #D3D3D3;
+
+}
+
+.pagebody {
+	padding-bottom: 60px;
+}
+
+.bottomleft, .bottomright{
+	padding-bottom: 2px
+}
+
+.bottomleft{
+	float: left;
+	font-size: 12px;
+	padding-left:6px;
+}
+
+.bottomright{
+	float:right;
+	font-size: 12px;
+	padding-right:10px;
+}
+
+.apps{
+	image
+}
+
